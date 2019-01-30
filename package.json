@@ -1,0 +1,10 @@
+{
+    "name": "chocolatechip",
+    "version": "1.0.0",
+    "description": "Cookies",
+    "main": "bot.js",
+    "author": "MyCookie",
+    "dependencies": {
+        "discord.js": "^11.4.2"
+    }
+}
