@@ -1,0 +1,2 @@
+# cookies-bot
+Discord bot
